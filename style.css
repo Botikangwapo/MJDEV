@@ -318,7 +318,6 @@ height: 300px;
 
 .dw{
   display: flex;
-  gap: 5px;
   align-items: center;
   justify-content: center;
   background-color: #f1a20e;
@@ -1628,4 +1627,4 @@ flex-direction: row;
     user-drag: none;
   }
 
- 
+
